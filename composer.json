@@ -1,0 +1,9 @@
+{
+    "require": {
+        "friendsofphp/php-cs-fixer": "2.18",
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.3",
+        "symfony/validator": "^5.4",
+        "symfony/mime": "^5.4"
+    }
+}
